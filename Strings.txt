@@ -1,0 +1,6 @@
+(a) s.substring(0, 5) == "Hodor" = true
+(b) s.lastIndexOf("od") = 15
+(c) s.indexOf('o', 5) = 8
+(d) s.indexOf("od", s.length() - 13) = 8
+(e) s.substring(s.lastIndexOf(s.charAt(5))) = !
+(f) s.substring(2, s.length() - 3)  = dor! Hodor! Hod

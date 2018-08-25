@@ -1,0 +1,4 @@
+(a) mystery(-2,-6) = 0
+(b) mystery(2,3) = 0 2 2
+(c) mystery(4,8) = 0 6 10 12
+(d) mystery(10,31) = 0 18 34 48 60

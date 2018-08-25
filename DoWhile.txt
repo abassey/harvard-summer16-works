@@ -1,0 +1,13 @@
+do { 
+    i++;
+    j++;
+     System.out.println(i * j - j);
+} while (i < 20 && j*j <= 2500);
+
+This would translate into:
+
+while (i <= 20 && j*j < 2601){
+    i++;
+    j++;
+     System.out.println(i * j - j);
+}
