@@ -1,0 +1,1 @@
+This would print everything after the first line, then print the first line then exit.
