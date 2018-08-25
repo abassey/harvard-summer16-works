@@ -1,0 +1,25 @@
+part a)
+T
+F
+F
+S
+F
+F
+S
+T
+F
+F
+S
+
+part b)
+F
+T
+F
+S
+F
+F
+S
+F
+T
+F
+S

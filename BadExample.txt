@@ -1,0 +1,3 @@
+x and y are local variables in the main method, and they should be in the completeSum() method instead, as that is where they need 
+to be executed to for the statement to be true and for the program to run. For it to work, the values of x and y need to be defined 
+in the completeSum() method.

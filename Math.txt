@@ -1,0 +1,12 @@
+foo = 23 - 45 / 10
+foo = 18.5 + 6
+foo = 24.5
+foo would be printed out as 24, as it is defined as int and not double
+bar = 13
+bar = 24 % 13
+bar = 11
+
+System.out.println(foo * 2) = 48
+System.out.println(foo + bar) = 37
+System.out.println(foo) = 24
+System.out.println(bar) = 13
