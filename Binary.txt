@@ -1,0 +1,6 @@
+00101101 = 45 base 10
+37 base 10 = 100101
+11111010 signed 8-bit = -6 base 10
+11111010 signed 32-bit = 250 base 10
+00101101 =  2D (base 16)
+37 base 10 = 25 base 16

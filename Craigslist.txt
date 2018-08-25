@@ -1,0 +1,8 @@
+if ( isSunny && hasDeck && isNew && hasSwimmingPool && !(isNoisy) && milesToHarvard < 1 && rent <= 500)   
+    { 
+    System.out.println("I’ll take it!"); 
+    } 
+else 
+    {
+    System.out.println("No thanks!"); 
+    }
