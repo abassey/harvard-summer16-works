@@ -1,0 +1,15 @@
+a) For 10000, it took 0.0850 seconds
+For 20000, it took 0.3010 seconds
+For 40000, it took 0.8790 seconds
+For 80000, it took 3.5850 seconds
+For 160000, it took 17.7900 seconds
+For 320000, it took 70.6840 seconds
+
+b) For 10000, it took 0.0240 seconds
+For 20000, it took 0.0270 seconds
+For 40000, it took 0.0230 seconds
+For 80000, it took 0.0290 seconds
+For 160000, it took 0.0370 seconds
+For 320000, it took 0.0360 seconds
+
+c) MaxIncrease.java has a runtime of O(n^2).

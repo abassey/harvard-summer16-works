@@ -1,0 +1,20 @@
+(a) a single-dimensioned array with the answers to 20 true/false quiz questions
+(b) a single-dimensioned array that contains the average family size in the years 1900, 1910, 1920, ... 2010
+(c) a single-dimensioned array containing the 8 candidates in some election. 
+You should define a Candidate class with private instance variables for the person’s name and the number of votes received. 
+Don’t bother defining any constructors, setters, getters or other instance methods. 
+Make use of this class in your array declaration.
+(d) a 2D array that contains the total number of inches of rainfall for a city in each of twelve months, recorded over a period of 5 years.
+
+a) boolean [] quiz = {20};
+
+b) int [] family = {110};
+
+c) class Candidate {
+    private String name;
+    private int votes;
+}
+
+Candidate[] a = {8};
+
+d) int [][] rainfall = new char [5][12];

@@ -1,0 +1,3 @@
+if both variables are static, then all inputs will share the same variable instead of having their own.
+p1 also has a loss of precision error, as it is int and not double.
+Non-static variable this cannot be referenced from a static context.

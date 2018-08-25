@@ -1,0 +1,27 @@
+ int[] sample = new int[SIZE];
+
+a) Initialize all array elements to the value 5. 
+b) Swap the first value in the array with the last value in the array
+c) Change any negative values to positive values (of the same magnitude) 
+d) Print the contents of the locations in the array with odd-numbered index.
+
+a) for (int i = 0; i < sample.length; i++)
+    {
+         sample[i] = 5; 
+    }
+    
+b)      int temp = sample[0];
+        arr[0] = arr[sample.length - 1];
+        arr[sample.length - 1] = temp;
+
+c) for (int i = 0; i < sample.length; i++)
+    {
+        if (i < 0)
+        { sample[i] = sample[i] * -1; }
+    } else { continue; }
+    
+d) for (int i = 0; i < sample.length; i++)
+    {
+        if (i % 2 != 0)
+        { System.out.println(a[i]) }
+    }
